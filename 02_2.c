@@ -15,7 +15,7 @@ int main()
     //c) feladat
     double edouble;
     edouble = ((double)6*(double)2/(double)3+(double)5/(double)2-7*3%2);
-    printf("\nDouble-ban tarolva az ertek: %.3lf", edouble);
+    printf("\nDouble-ban tarolva az ertek: %.1lf", edouble);
 
     //d) először a magasabb operátorok (*,/,%), után az alacsonabb rendűek (+,-)
 
